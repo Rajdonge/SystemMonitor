@@ -1,0 +1,5 @@
+2024-12-22 10:45:00 User John failed login attempt from IP 192.168.1.10
+2024-12-22 11:00:15 Unauthorized access detected in database server
+2024-12-22 11:30:45 System running normally. No issues detected.
+2024-12-22 12:15:30 Malicious activity detected: Suspicious script execution
+2024-12-22 12:45:00 User login successful from IP 192.168.1.20
